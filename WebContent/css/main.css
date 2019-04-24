@@ -1,0 +1,27 @@
+@charset "UTF-8";
+
+#top{
+	text-align:center;
+	font-size: 30px;
+	font-family: cursive;
+}
+
+table{
+	border: medium;
+	width: 80%;
+	background: #ddffff;
+	text-align:center;
+	font-size: 15px;
+	border-collapse: separate solid pink;
+	border: 3px solid;
+	border-color: blue;
+}
+
+.thead{
+	backgroung: #80ffff;
+}
+
+.bas{
+	padding: 10px 10px;
+	float: right;
+}
